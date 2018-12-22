@@ -1,0 +1,19 @@
+{
+  "name": "kodefant/littlebot-netlify",
+  "description": "WordPress plugin to connect your WordPress website to Netlify.com",
+  "keywords": [
+    "netlify",
+    "wordpress",
+    "plugin"
+  ],
+  "authors": [
+    {
+      "name": "Justin Windsor Hall",
+      "homepage": "https://justinwhall.com/"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
